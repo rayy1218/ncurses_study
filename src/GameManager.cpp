@@ -1,4 +1,4 @@
-#include <ncurses/ncurses.h>
+#include <ncurses.h>
 #include "Snake.hpp"
 #include "Enums.hpp"
 #include "Utilities.hpp"
